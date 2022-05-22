@@ -1,3 +1,5 @@
 - 👋 Hi, I’m Mahmoud Mohamed [@ehoda9]
-- 👀 I’m interested in Coding Websites
 - 📫 How to reach me addblogs12@gmail.com
+- 👀Skills : HTML5, CSS3, SCSS, Javascript, Nodejs, Git - github
+- 👀Libraries : JQUERY, AJAX, AnimeJs, GsapJs, ThreeJs, ReactJs
+- 👀Frameworks : Bootstrap, TailwindCss, NextJs
