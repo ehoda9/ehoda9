@@ -1,35 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Mahmoud%20Mohamed&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Front-End%20Developer%20%7C%20Future%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://github.com/ehoda9">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=Front-End+Developer+%F0%9F%92%BB;AI+%26+Data+Science+in+Progress+%F0%9F%A4%96;Building+useful%2C+working+things" alt="Typing SVG" />
-</a>
+# Mahmoud Mohamed
+### Full-Stack Developer (MERN) · Building toward AI Engineering 🎓
 
 </div>
 
-### 👋 About Me
+```bash
+$ whoami
+mahmoud-mohamed — full-stack developer (MERN) · Egypt 🇪🇬
 
-I'm Mahmoud — a self-taught front-end developer based in Egypt, currently completing an **AI & Data Science diploma** (Python, Machine Learning, Deep Learning, NLP, LLMs). I'm working toward an AI Engineer role while staying active as a front-end developer.
+$ cat about.md
+Self-taught since day one. I build end-to-end with the MERN stack,
+ship the occasional Unreal Engine 5 tool on the side, and right now
+I'm teaching myself AI & Data Science — because eventually I want
+to build the models too, not just the interface around them.
 
-- 🔭 Currently deepening my skills in **Python, NumPy & TensorFlow**
-- 🎓 Pursuing an AI & Data Science diploma (Machine Learning · Deep Learning · NLP · LLMs)
-- 💼 Open to remote opportunities
-- 📫 Reach me at **addblogs12@gmail.com**
+$ status --check
+🎓 learning    AI & Data Science (Python · ML · DL · NLP · LLMs)
+💼 available   for remote work
+📫 contact     addblogs12@gmail.com
+```
 
 <br/>
 
 ### 🛠️ Skills
 
-**Web Development**
+**Full-Stack Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Libraries**
@@ -55,12 +59,43 @@ I'm Mahmoud — a self-taught front-end developer based in Egypt, currently comp
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
 
-**AI & Data Science** *(in progress 🎓)*
+**Game Development**
+
+![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+**Tools**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+**Data Analysis & Visualization** *(in progress 🎓)*
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Sweetviz](https://img.shields.io/badge/Sweetviz-FF6F61?style=for-the-badge&logoColor=white)
+
+**AI & Machine Learning** *(in progress 🎓)*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1C6DD0?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+
+<br/>
+
+### 🚀 Featured Work
+
+- 🎮 **Unreal Engine 5 Blueprint Asset** — a commercially published tool on the Fab (Epic Games) marketplace, built entirely in Blueprints.
+- 🧩 Full-stack projects across MERN and PHP/Laravel, covering both the UI and the server/data layer.
 
 <br/>
 
@@ -76,5 +111,5 @@ I'm Mahmoud — a self-taught front-end developer based in Egypt, currently comp
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1BFFFF,100:2E3192&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=90&section=footer"/>
 </div>
