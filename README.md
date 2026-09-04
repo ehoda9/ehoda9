@@ -17,7 +17,6 @@ to build the models too, not just the interface around them.
 
 $ status --check
 🎓 learning    AI & Data Science (Python · ML · DL · NLP · LLMs)
-💼 available   for remote work
 📫 contact     addblogs12@gmail.com
 ```
 
